@@ -22,7 +22,7 @@ This project provides a complete reference guide for Ableton Live compatible MID
 
 ## Live Site
 
-View the catalog at: [https://yourgithubusername.github.io/ableton-controllers-research](https://yourgithubusername.github.io/ableton-controllers-research)
+View the catalog at: [https://meefs.github.io/ableton-controllers-research](https://meefs.github.io/ableton-controllers-research)
 
 ## Repository Contents
 
