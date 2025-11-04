@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+      </header>
+
+      <nav class="toc">
+        <h3>Manufacturers</h3>
+        <ul>
+          <li><a href="#ableton">Ableton</a></li>
+          <li><a href="#akai-professional">Akai Professional</a></li>
+          <li><a href="#alesis">Alesis</a></li>
+          <li><a href="#arturia">Arturia</a></li>
+          <li><a href="#behringer">Behringer</a></li>
+          <li><a href="#blackstar">Blackstar</a></li>
+          <li><a href="#faderfox">Faderfox</a></li>
+          <li><a href="#ik-multimedia">IK Multimedia</a></li>
+          <li><a href="#korg">Korg</a></li>
+          <li><a href="#m-audio">M-Audio</a></li>
+          <li><a href="#mackie">Mackie</a></li>
+          <li><a href="#native-instruments">Native Instruments</a></li>
+          <li><a href="#novation">Novation</a></li>
+          <li><a href="#presonus">PreSonus</a></li>
+          <li><a href="#reloop">Reloop</a></li>
+          <li><a href="#roli">ROLI</a></li>
+          <li><a href="#roland">Roland</a></li>
+          <li><a href="#tascam">Tascam</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer>
+        <p>Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
+        <p>Data source: Ableton Live control surface compatibility list</p>
+      </footer>
+    </div>
+  </body>
+</html>

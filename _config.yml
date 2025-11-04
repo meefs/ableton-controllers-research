@@ -1,0 +1,23 @@
+title: Ableton Controllers Research
+description: Comprehensive catalog of Ableton Live's natively supported control surfaces
+url: https://yourgithubusername.github.io/ableton-controllers-research
+baseurl: /ableton-controllers-research
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..3
+
+collections: []
+
+exclude:
+  - .git
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+
+include:
+  - .htaccess
