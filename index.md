@@ -20,6 +20,7 @@ A comprehensive research catalog of all 126+ natively supported Ableton Live con
 |---------|--------|------|---------|
 | Push (1st Gen) | Discontinued | [View Product](https://www.ableton.com/en/shop/push/) | MSRP unknown \| Used: $140-200 |
 | Push 2 | Discontinued | [View Product](https://www.ableton.com/en/shop/push/) | MSRP: $799 \| Discontinued |
+| Push 3 | Verified | [View Product](https://www.ableton.com/en/shop/push/) | Controller: $999 USD \| Standalone: $1,999 USD |
 | Move | Verified | [View Product](https://www.ableton.com/en/move/) | $499 USD / €499 EUR |
 
 ---
@@ -32,7 +33,7 @@ A comprehensive research catalog of all 126+ natively supported Ableton Live con
 | Akai Force MPC | Verified | [View Product](https://www.akaipro.com/) | $1,499 USD |
 | APC20 | Discontinued | [View Product](https://www.akaipro.com/) | MSRP unknown \| Used market only |
 | APC40 (Original) | Discontinued | [View Product](https://www.akaipro.com/apc40.html) | MSRP unknown \| Superseded |
-| APC40 MkII | Discontinued | [View Product](https://www.akaipro.com/apc40-mkii) | $230+ (limited stock) |
+| APC40 MkII | Verified | [View Product](https://www.akaipro.com/apc40-mkii) | Available at authorized retailers |
 | APC64 | Verified | [View Product](https://www.akaipro.com/apc64.html) | MSRP: $399 \| Current: $189-399 |
 | APC Key 25 | Discontinued | [View Product](https://www.akaipro.com/apc-key-25) | MSRP unknown \| Superseded |
 | APC Key 25 mk2 | Verified | [View Product](https://www.akaipro.com/apc-key-25-mkii.html) | MSRP: $99 USD |
